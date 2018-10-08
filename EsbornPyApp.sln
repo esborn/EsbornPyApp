@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{4A0FAC91-4A27-45A9-A41F-582BDCD242D7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ManchineLearning", "ManchineLearning\ManchineLearning.pyproj", "{35DD28F9-933F-4C3F-B7D0-E1CCA58A3863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0FAC91-4A27-45A9-A41F-582BDCD242D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0FAC91-4A27-45A9-A41F-582BDCD242D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DD28F9-933F-4C3F-B7D0-E1CCA58A3863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DD28F9-933F-4C3F-B7D0-E1CCA58A3863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1C618F-89D6-4E2A-A8E2-10063FE6DBDB}
+	EndGlobalSection
+EndGlobal
